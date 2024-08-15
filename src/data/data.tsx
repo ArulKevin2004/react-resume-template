@@ -115,12 +115,11 @@ export const aboutData: About = {
 Although I haven't yet decided on a specific career path, I am particularly interested in exploring fields such as Web Development, cloud computing and machine learning. My strengths include coding, problem-solving, teamwork and I thrive in environments that challenge me to think critically and innovate.
 I am excited to continue learning and growing, and I am open to exploring various opportunities that align with my skills and interests. My goal is to find a path where I can leverage my expertise to create meaningful and efficient software solutions.`,
   aboutItems: [
-    { label: "Location", text: "Vellalore, Cbe", Icon: MapIcon },
-    { label: "Age", text: "20", Icon: CalendarIcon },
-    { label: "Nationality", text: "Indian", Icon: FlagIcon },
-    { label: "Interests", text: "F1, Silambam", Icon: SparklesIcon },
-    {
-      label: "Study",
+    {label: "Location", text: "Vellalore, Cbe", Icon: MapIcon},
+    {label: "Age", text: "20", Icon: CalendarIcon},
+    {label: "Nationality", text: "Indian", Icon: FlagIcon},
+    {label: "Interests", text: "F1, Silambam", Icon: SparklesIcon},
+    {label: "Study",
       text: "PSG College of Technology",
       Icon: AcademicCapIcon,
     },

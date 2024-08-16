@@ -206,9 +206,9 @@ export const skills: SkillGroup[] = [
  */
 export const portfolioItems: PortfolioItem[] = [
   {
-    title: 'Project title 1',
+    title: 'S2S',
     description: 'Give a short description of your project here.',
-    url: 'https://reactresume.com',
+    url: 'https://github.com/ArulKevin2004/Sign-to-speech-System',
     image: porfolioImage1,
   },
   {
